@@ -1,0 +1,14 @@
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.csprojAssemblyReference.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.csproj.CoreCompileInputs.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.RazorAssemblyInfo.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.RazorAssemblyInfo.cs
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.AssemblyInfoInputs.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.AssemblyInfo.cs
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/bin/Debug/netcoreapp2.1/NetCoreWebApp.deps.json
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/bin/Debug/netcoreapp2.1/NetCoreWebApp.runtimeconfig.json
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/bin/Debug/netcoreapp2.1/NetCoreWebApp.runtimeconfig.dev.json
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/bin/Debug/netcoreapp2.1/NetCoreWebApp.dll
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/bin/Debug/netcoreapp2.1/NetCoreWebApp.pdb
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.RazorTargetAssemblyInfo.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.dll
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/NetCoreWebApp/obj/Debug/netcoreapp2.1/NetCoreWebApp.pdb

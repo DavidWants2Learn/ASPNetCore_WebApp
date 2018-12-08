@@ -1,0 +1,4 @@
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/TestClass/obj/Debug/netcoreapp2.2/TestClass.csprojAssemblyReference.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/TestClass/obj/Debug/netcoreapp2.2/TestClass.csproj.CoreCompileInputs.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/TestClass/obj/Debug/netcoreapp2.2/TestClass.AssemblyInfoInputs.cache
+/home/davidoh/Documents/Git/webapp/ASPNetCore_WebApp/NetCoreWebApp/TestClass/obj/Debug/netcoreapp2.2/TestClass.AssemblyInfo.cs
